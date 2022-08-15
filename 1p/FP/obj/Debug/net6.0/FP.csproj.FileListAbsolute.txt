@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\bin\Debug\net6.0\FP.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\bin\Debug\net6.0\FP.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\bin\Debug\net6.0\FP.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\bin\Debug\net6.0\FP.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\bin\Debug\net6.0\FP.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\refint\FP.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\FP.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\obj\Debug\net6.0\ref\FP.dll

@@ -13,4 +13,12 @@ while(n2 <=9){
     Console.WriteLine(n2+"x"+n1+"="+n1*n2);
     
     }
+    // metodo readline lê apenas string, precisa converter para double
+    double num1 = Convert.ToDouble(Console.ReadLine());
+    int num2 = 0;
+    while(num2<=9){
+        num2+=1;
+        Console.WriteLine(num1+"x"+num2+"="+ num1*num2);
+    }
+
 

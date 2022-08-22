@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\bin\Debug\net6.0\ExerSubRotina.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\bin\Debug\net6.0\ExerSubRotina.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\bin\Debug\net6.0\ExerSubRotina.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\bin\Debug\net6.0\ExerSubRotina.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\bin\Debug\net6.0\ExerSubRotina.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\refint\ExerSubRotina.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ExerSubRotina.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerSubRotina\obj\Debug\net6.0\ref\ExerSubRotina.dll

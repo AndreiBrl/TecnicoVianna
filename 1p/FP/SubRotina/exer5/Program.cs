@@ -16,11 +16,11 @@ double ponto3Y = Convert.ToDouble(Console.ReadLine());
 calculaDistancia(ponto1X,ponto1Y,ponto2X,ponto2Y,ponto3X,ponto3Y);
 
 static double calculaDistancia(double ponto1X,double ponto1Y,double ponto2X,double ponto2Y,double ponto3X,double ponto3Y){
-    double calculo1 = Math.Sqrt(Math.Pow(ponto2X-ponto1X,2)+Math.Pow(ponto2Y-ponto1Y,2));
-    double calculo2 = Math.Sqrt(Math.Pow(ponto3X-ponto2X,2)+Math.Pow(ponto3Y-ponto2Y,2));
-    double calculo3 = Math.Sqrt(Math.Pow(ponto1X-ponto3X,2)+Math.Pow(ponto1Y-ponto3Y,2));
-    double perimetro = calculo1+calculo2+calculo3;
-    Console.WriteLine("a distância entre os dois primeiros pontos é de {0:N} e o perímetro do triângulo é de {1:N}",calculo1,perimetro);
-    Console.WriteLine(calculo1+" "+calculo2+" "+calculo3);
-    return calculo1;
+    double X1paraX2 = Math.Sqrt(Math.Pow(ponto2X-ponto1X,2)+Math.Pow(ponto2Y-ponto1Y,2));
+    double X2paraX3 = Math.Sqrt(Math.Pow(ponto3X-ponto2X,2)+Math.Pow(ponto3Y-ponto2Y,2));
+    double X3paraX1 = Math.Sqrt(Math.Pow(ponto1X-ponto3X,2)+Math.Pow(ponto1Y-ponto3Y,2));
+    double perimetro = X1paraX2+X2paraX3+X3paraX1;
+    Console.WriteLine("a distância entre os dois primeiros pontos é de {0:N} e o perímetro do triângulo é de {1:N}",X1paraX2,perimetro);
+    Console.WriteLine(X1paraX2+" "+X2paraX3+" "+X3paraX1);
+    return perimetro;
 }

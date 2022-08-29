@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\bin\Debug\net6.0\exer4.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\bin\Debug\net6.0\exer4.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\bin\Debug\net6.0\exer4.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\bin\Debug\net6.0\exer4.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\bin\Debug\net6.0\exer4.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\refint\exer4.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\exer4.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\SubRotina\ExerciciosFinais\exer4\obj\Debug\net6.0\ref\exer4.dll

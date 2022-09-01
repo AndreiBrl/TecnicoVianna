@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\bin\Debug\net6.0\exer2.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\bin\Debug\net6.0\exer2.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\bin\Debug\net6.0\exer2.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\bin\Debug\net6.0\exer2.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\bin\Debug\net6.0\exer2.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\refint\exer2.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\exer2.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\exerIfElse\exer2\obj\Debug\net6.0\ref\exer2.dll

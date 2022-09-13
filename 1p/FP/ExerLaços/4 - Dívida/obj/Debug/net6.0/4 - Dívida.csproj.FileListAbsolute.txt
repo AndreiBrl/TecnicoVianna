@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\bin\Debug\net6.0\4 - Dívida.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\bin\Debug\net6.0\4 - Dívida.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\bin\Debug\net6.0\4 - Dívida.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\bin\Debug\net6.0\4 - Dívida.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\bin\Debug\net6.0\4 - Dívida.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\refint\4 - Dívida.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\4 - Dívida.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\4 - Dívida\obj\Debug\net6.0\ref\4 - Dívida.dll

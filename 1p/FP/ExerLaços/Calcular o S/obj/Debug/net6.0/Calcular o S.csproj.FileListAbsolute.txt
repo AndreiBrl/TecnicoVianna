@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\bin\Debug\net6.0\Calcular o S.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\bin\Debug\net6.0\Calcular o S.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\bin\Debug\net6.0\Calcular o S.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\bin\Debug\net6.0\Calcular o S.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\bin\Debug\net6.0\Calcular o S.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\refint\Calcular o S.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\Calcular o S.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Calcular o S\obj\Debug\net6.0\ref\Calcular o S.dll

@@ -3,13 +3,15 @@ int x =Convert.ToInt32(Console.ReadLine());
 int cont=1;
 while(cont<x){
     cont++;
-    if(x/cont==1 ){
-        Console.WriteLine("testando {0}...   é primo",cont);
+    if(x%cont==0 && x/cont>1){
+        Console.WriteLine("não é porque é divisível por "+cont);
         break;
     }
-    else if(x%cont==0 && x/cont>1){
-        Console.WriteLine("não é primo pq é divisível por {0}",cont);
-        break;
-        
+    else if(x%cont>0){
+        Console.WriteLine("Divisão por inteiro {0} não conta",cont);
+
+    }
+    else{
+        Console.WriteLine("é primo");
     }
 }

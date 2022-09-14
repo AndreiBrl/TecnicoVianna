@@ -1,17 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 int x =Convert.ToInt32(Console.ReadLine());
-int cont=1;
-while(cont<x){
-    cont++;
-    if(x%cont==0 && x/cont>1){
-        Console.WriteLine("não é porque é divisível por "+cont);
+int cont=2;
+string ehprimo="o número é primo";
+
+while(cont<x-1){
+    
+    if(x%cont==0){
+        ehprimo="o número não é primo";
+        
         break;
     }
-    else if(x%cont>0){
-        Console.WriteLine("Divisão por inteiro {0} não conta",cont);
-
-    }
-    else{
-        Console.WriteLine("é primo");
-    }
+    cont++;
+    
+    
 }
+        Console.WriteLine(ehprimo+" "+cont);
+

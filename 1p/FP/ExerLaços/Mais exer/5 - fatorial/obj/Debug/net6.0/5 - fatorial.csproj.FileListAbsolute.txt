@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\bin\Debug\net6.0\5 - fatorial.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\bin\Debug\net6.0\5 - fatorial.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\bin\Debug\net6.0\5 - fatorial.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\bin\Debug\net6.0\5 - fatorial.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\bin\Debug\net6.0\5 - fatorial.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\refint\5 - fatorial.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\5 - fatorial.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\5 - fatorial\obj\Debug\net6.0\ref\5 - fatorial.dll

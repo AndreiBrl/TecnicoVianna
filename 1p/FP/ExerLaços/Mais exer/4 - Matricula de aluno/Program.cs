@@ -2,8 +2,11 @@
 while(true){
     Console.Write("Digite sua matricula para acessar o sistema: ");
     int matricula = Convert.ToInt32(Console.ReadLine());
+
+
     if(matricula==2244){
-        Console.WriteLine("Você acessou o sistema, agora digite as notas das suas provas");
+
+        Console.WriteLine("Você acessou o sistema, agora digite as notas das suas provas ( Digite a sua maior nota primeiro: )");
         Console.Write("Prova 1 = ");
         double nota1 = Convert.ToDouble(Console.ReadLine());
                 Console.Write("Prova 2 = ");

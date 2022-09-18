@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\bin\Debug\net6.0\3 - Chico.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\bin\Debug\net6.0\3 - Chico.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\bin\Debug\net6.0\3 - Chico.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\bin\Debug\net6.0\3 - Chico.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\bin\Debug\net6.0\3 - Chico.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\refint\3 - Chico.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\3 - Chico.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\3 - Chico\obj\Debug\net6.0\ref\3 - Chico.dll

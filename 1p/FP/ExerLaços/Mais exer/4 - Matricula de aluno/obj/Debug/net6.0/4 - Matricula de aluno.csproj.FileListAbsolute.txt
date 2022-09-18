@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\bin\Debug\net6.0\4 - Matricula de aluno.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\bin\Debug\net6.0\4 - Matricula de aluno.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\bin\Debug\net6.0\4 - Matricula de aluno.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\bin\Debug\net6.0\4 - Matricula de aluno.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\bin\Debug\net6.0\4 - Matricula de aluno.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\refint\4 - Matricula de aluno.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\4 - Matricula de aluno.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\4 - Matricula de aluno\obj\Debug\net6.0\ref\4 - Matricula de aluno.dll

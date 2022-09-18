@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\bin\Debug\net6.0\1 - Inteiro N.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\bin\Debug\net6.0\1 - Inteiro N.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\bin\Debug\net6.0\1 - Inteiro N.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\bin\Debug\net6.0\1 - Inteiro N.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\bin\Debug\net6.0\1 - Inteiro N.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\refint\1 - Inteiro N.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\1 - Inteiro N.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\ExerLaços\Mais exer\1 - Inteiro N\obj\Debug\net6.0\ref\1 - Inteiro N.dll

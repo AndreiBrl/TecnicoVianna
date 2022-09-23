@@ -1,24 +1,29 @@
-﻿
-int nota =Convert.ToInt32(Console.ReadLine());
-int p1=nota;
-int p2=nota;
-int p3=nota;
-
-Console.WriteLine(" maior {0}, menor {1}, menor {2}", p1,p2,p3);
-for(int i =0;i<2;i++){
-    nota =Convert.ToInt32(Console.ReadLine());
-    if(nota>p1){
-        p1=nota;
+﻿Console.WriteLine("Digite help para receber informações");
+string help= Console.ReadLine()!;
+if (help=="help"){
+    while(true){
+    Console.WriteLine("Digite start para começar e quit para sair");
+    string jogo = Console.ReadLine()!;
+    if (jogo =="start"){
+        while (true){
+            Console.WriteLine("Agora digite Start para andar, stop para parar e quit para sair do jogo");
+            string carro = Console.ReadLine()!;
+            if (carro=="start"){
+                Console.WriteLine("O carro está andando");
+            }
+            else if( carro=="stop"){
+                Console.WriteLine("O carro parou");
+            }
+            else{
+                break;
+            }
+        }
 
     }
-     else if (nota<=p1 && nota>=p2){
-        p2=nota;
-        
+    Console.Write("Você saiu do jogo");
+    break;
+
 
     }
-    if (nota<=p2){
-        p3=nota;
-    }
-    Console.WriteLine(" maior {0}, menor {1}, menor {2}", p1,p2,p3);
 
 }

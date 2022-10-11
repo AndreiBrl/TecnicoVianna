@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\bin\Debug\net6.0\ProcuraNaFrase.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\bin\Debug\net6.0\ProcuraNaFrase.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\bin\Debug\net6.0\ProcuraNaFrase.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\bin\Debug\net6.0\ProcuraNaFrase.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\bin\Debug\net6.0\ProcuraNaFrase.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\refint\ProcuraNaFrase.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ProcuraNaFrase.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ProcuraNaFrase\obj\Debug\net6.0\ref\ProcuraNaFrase.dll

@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\bin\Debug\net6.0\AchaNumeroNoVetor.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\bin\Debug\net6.0\AchaNumeroNoVetor.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\bin\Debug\net6.0\AchaNumeroNoVetor.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\bin\Debug\net6.0\AchaNumeroNoVetor.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\bin\Debug\net6.0\AchaNumeroNoVetor.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\refint\AchaNumeroNoVetor.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\AchaNumeroNoVetor.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\AchaNumeroNoVetor\obj\Debug\net6.0\ref\AchaNumeroNoVetor.dll

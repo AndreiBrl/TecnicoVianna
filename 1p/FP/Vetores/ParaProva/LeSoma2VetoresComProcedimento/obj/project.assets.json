@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barbu\\OneDrive\\Pc Backup\\TecnicoVianna\\1p\\FP\\Vetores\\ParaProva\\LeSoma2VetoresComFuncao\\LeSoma2VetoresComFuncao.csproj",
+      "projectUniqueName": "C:\\Users\\barbu\\OneDrive\\Pc Backup\\TecnicoVianna\\1p\\FP\\Vetores\\ParaProva\\LeSoma2VetoresComProcedimento\\LeSoma2VetoresComFuncao.csproj",
       "projectName": "LeSoma2VetoresComFuncao",
-      "projectPath": "C:\\Users\\barbu\\OneDrive\\Pc Backup\\TecnicoVianna\\1p\\FP\\Vetores\\ParaProva\\LeSoma2VetoresComFuncao\\LeSoma2VetoresComFuncao.csproj",
+      "projectPath": "C:\\Users\\barbu\\OneDrive\\Pc Backup\\TecnicoVianna\\1p\\FP\\Vetores\\ParaProva\\LeSoma2VetoresComProcedimento\\LeSoma2VetoresComFuncao.csproj",
       "packagesPath": "C:\\Users\\barbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barbu\\OneDrive\\Pc Backup\\TecnicoVianna\\1p\\FP\\Vetores\\ParaProva\\LeSoma2VetoresComFuncao\\obj\\",
+      "outputPath": "C:\\Users\\barbu\\OneDrive\\Pc Backup\\TecnicoVianna\\1p\\FP\\Vetores\\ParaProva\\LeSoma2VetoresComProcedimento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barbu\\AppData\\Roaming\\NuGet\\NuGet.Config"

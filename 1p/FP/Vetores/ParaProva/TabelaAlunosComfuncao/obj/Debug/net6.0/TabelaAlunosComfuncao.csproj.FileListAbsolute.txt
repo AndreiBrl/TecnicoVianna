@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\bin\Debug\net6.0\TabelaAlunosComfuncao.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\bin\Debug\net6.0\TabelaAlunosComfuncao.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\bin\Debug\net6.0\TabelaAlunosComfuncao.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\bin\Debug\net6.0\TabelaAlunosComfuncao.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\bin\Debug\net6.0\TabelaAlunosComfuncao.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\refint\TabelaAlunosComfuncao.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\TabelaAlunosComfuncao.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Vetores\ParaProva\TabelaAlunosComfuncao\obj\Debug\net6.0\ref\TabelaAlunosComfuncao.dll

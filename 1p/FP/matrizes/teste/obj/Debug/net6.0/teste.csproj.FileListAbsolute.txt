@@ -1,0 +1,7 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\teste\obj\Debug\net6.0\teste.pdb

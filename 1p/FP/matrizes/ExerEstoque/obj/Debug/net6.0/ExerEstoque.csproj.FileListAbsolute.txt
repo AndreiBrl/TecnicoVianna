@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\bin\Debug\net6.0\ExerEstoque.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\bin\Debug\net6.0\ExerEstoque.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\bin\Debug\net6.0\ExerEstoque.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\bin\Debug\net6.0\ExerEstoque.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\bin\Debug\net6.0\ExerEstoque.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\refint\ExerEstoque.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ExerEstoque.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\matrizes\ExerEstoque\obj\Debug\net6.0\ref\ExerEstoque.dll

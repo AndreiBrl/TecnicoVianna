@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\bin\Debug\net6.0\exerHotel.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\bin\Debug\net6.0\exerHotel.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\bin\Debug\net6.0\exerHotel.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\bin\Debug\net6.0\exerHotel.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\bin\Debug\net6.0\exerHotel.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\refint\exerHotel.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\exerHotel.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exerHotel\obj\Debug\net6.0\ref\exerHotel.dll

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Salario
+comment1.params=rh
+comment1.target=Salario(Contabilidade)
+comment2.params=noturno\ qtdFilhos\ salario
+comment2.target=void\ calcSalario(boolean,\ int,\ double)
+comment3.params=
+comment3.target=double\ getSalario()
+comment4.params=salario
+comment4.target=void\ setSalario(double)
+numComments=5

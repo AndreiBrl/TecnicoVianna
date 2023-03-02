@@ -8,8 +8,8 @@ class funcGenerico {
 
     
     
-    public funcGenerico(boolean noturno, int qtdFilhos, double salario,Contabilidade rh){
-        this.obj = new Salario(rh);
+    public funcGenerico(boolean noturno, int qtdFilhos, double salario){
+        this.obj = new Salario();
         obj.calcSalario(noturno,qtdFilhos,salario);
     }
     

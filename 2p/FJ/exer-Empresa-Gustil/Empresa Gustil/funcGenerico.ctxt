@@ -1,5 +1,5 @@
 #BlueJ class context
 comment0.target=funcGenerico
-comment1.params=noturno\ qtdFilhos\ salario\ rh
-comment1.target=funcGenerico(boolean,\ int,\ double,\ Contabilidade)
+comment1.params=noturno\ qtdFilhos\ salario
+comment1.target=funcGenerico(boolean,\ int,\ double)
 numComments=2

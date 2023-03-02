@@ -2,15 +2,13 @@ class Salario{
     
     
     private double salario;
-    private Contabilidade rh;
+    
+    private static double total;
+    
 
 
    
-    public Salario(Contabilidade rh){
-        
-        this.rh=rh;
-        
-    }
+    
     public void calcSalario(boolean noturno, int qtdFilhos,double salario){
         if(noturno){
             
@@ -25,9 +23,9 @@ class Salario{
         }
         
         this.salario=salario;
+        System.out.println("O Salario dele é "+ this.salario);
+        System.out.println(totalPago(this.salario));
 
-        this.rh.totalPago(this.salario);
-        System.out.println(this.rh.getTotalPago());
         
     }
          public double getSalario(){
@@ -36,5 +34,19 @@ class Salario{
     
     public void setSalario(double salario){
         this.salario=salario;
+    }
+    
+    
+    
+
+    
+    
+    
+    public static double totalPago(double salario){
+        
+        total+=salario;
+        return total;
+
+        
     }
 }

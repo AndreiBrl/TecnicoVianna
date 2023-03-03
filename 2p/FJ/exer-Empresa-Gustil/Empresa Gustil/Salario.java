@@ -1,7 +1,7 @@
 class Salario{
     
     
-    private double salario;
+    private double salarioLiquido;
     
     private static double total;
     
@@ -9,37 +9,28 @@ class Salario{
 
    
     
-    public void calcSalario(boolean noturno, int qtdFilhos,double salario){
-        if(noturno){
-            
-            salario=salario-(salario*0.13)+(salario*0.06)+(salario*0.05)+(qtdFilhos*50);
+    public double calcSalario(double salarioBruto,boolean usaVale,boolean ehNoturno, int qtdFilhos){
         
-        }
+        this.salarioLiquido= salarioBruto- inss(salarioBruto)- usaVale(usaVale,salarioBruto)+ehNoturno(salarioBruto, ehNoturno)+50*qtdFilhos;
+        return this.salarioLiquido;
         
-
-        else{
-            salario=salario-(salario*0.13)+(salario*0.06)+(qtdFilhos*50);
-
-        }
-        
-        this.salario=salario;
-        System.out.println("O Salario dele é "+ this.salario);
-        System.out.println(totalPago(this.salario));
-
-        
+    
     }
-         public double getSalario(){
-        return this.salario;
+    public double inss(double salario){
+        return salario*0.13;
+    }
+    public double usaVale(boolean usaVale, double salario){
+        
+        double vale;
+        return vale = (usaVale)? salario*0.06 :0;
     }
     
-    public void setSalario(double salario){
-        this.salario=salario;
+    public double ehNoturno(double salario,boolean ehNoturno){
+        
+        double noturno;
+        return noturno = (ehNoturno)? salario*0.05:0;
+        
     }
-    
-    
-    
-
-    
     
     
     public static double totalPago(double salario){
@@ -48,5 +39,9 @@ class Salario{
         return total;
 
         
+    }
+    
+    public double getSalarioLiquido(){
+        return this.salarioLiquido;
     }
 }

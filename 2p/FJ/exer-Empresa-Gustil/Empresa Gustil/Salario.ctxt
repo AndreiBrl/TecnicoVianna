@@ -1,11 +1,15 @@
 #BlueJ class context
 comment0.target=Salario
-comment1.params=noturno\ qtdFilhos\ salario
-comment1.target=void\ calcSalario(boolean,\ int,\ double)
-comment2.params=
-comment2.target=double\ getSalario()
-comment3.params=salario
-comment3.target=void\ setSalario(double)
-comment4.params=salario
-comment4.target=double\ totalPago(double)
-numComments=5
+comment1.params=salarioBruto\ usaVale\ ehNoturno\ qtdFilhos
+comment1.target=double\ calcSalario(double,\ boolean,\ boolean,\ int)
+comment2.params=salario
+comment2.target=double\ inss(double)
+comment3.params=usaVale\ salario
+comment3.target=double\ usaVale(boolean,\ double)
+comment4.params=salario\ ehNoturno
+comment4.target=double\ ehNoturno(double,\ boolean)
+comment5.params=salario
+comment5.target=double\ totalPago(double)
+comment6.params=
+comment6.target=double\ getSalarioLiquido()
+numComments=7

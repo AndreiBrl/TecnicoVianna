@@ -1,0 +1,24 @@
+body{
+    padding-top: 15%;
+    padding-left: 38%;
+}
+
+
+#btnCompra{
+    color: blue;
+    margin-left: 18%;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+#btnVenda{
+    color: green;
+    margin-left: 18%;
+    transition: all  0.3s ease-in-out;
+    cursor: pointer;
+}
+#caixaTexto{
+    margin-left: 12%;
+}
+#btnCompra:hover, #btnVenda:hover{
+ font-size: 102%;
+}

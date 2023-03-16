@@ -1,0 +1,59 @@
+body{
+    padding-top: 15%;
+    padding-left: 38%;
+
+}
+
+
+#btnCompra{
+    color: blue;
+    margin-left: 18%;
+    padding-left: 4px;
+    margin-right: 72%;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+}
+#btnVenda{
+    color: green;
+    padding-left: 7px;
+    margin-right: 72%;
+    margin-left: 18%;
+    transition: all  0.3s ease-in-out;
+    cursor: pointer;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+}
+#caixaTexto{
+    margin-left: 12%;
+}
+#caixaPreco{
+    margin-left: 12%;
+}
+#btnCompra:hover, #btnVenda:hover{
+ font-size: 105%;
+}
+#meuSaldo{
+    padding-left: 15%;
+    color: green;
+    font-size: 50px;
+}
+
+#meusJogos{
+    padding-left: 40%;
+    color: green;
+    font-size: 20px;
+
+}
+#tituloSaldo{
+    padding-left: 13%;
+    display: flex;
+}
+#Flex, #saldo-e-jogos{
+    display: flex;
+}

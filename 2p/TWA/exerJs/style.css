@@ -32,6 +32,28 @@ body{
 #caixaTexto{
     margin-left: 12%;
 }
+#caixaPreco{
+    margin-left: 12%;
+}
 #btnCompra:hover, #btnVenda:hover{
  font-size: 105%;
+}
+#meuSaldo{
+    padding-left: 15%;
+    color: green;
+    font-size: 50px;
+}
+
+#meusJogos{
+    padding-left: 40%;
+    color: green;
+    font-size: 20px;
+
+}
+#tituloSaldo{
+    padding-left: 13%;
+    display: flex;
+}
+#Flex, #saldo-e-jogos{
+    display: flex;
 }

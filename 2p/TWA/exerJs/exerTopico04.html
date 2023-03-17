@@ -9,13 +9,30 @@
     <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-    <h1 id="titulo">Compra e venda de jogos</h1>
+    <h1 >Compra e venda de jogos</h1>
     <div>
-        <input id="caixaTexto"value="text">
+        <input id="caixaTexto"value="text" placeholder="Jogo"><br><br>
+        <input id="caixaPreco"value="text" placeholder="Preço">
 
         <p id="btnCompra" onclick="minhasCoisas.compra()">COMPRA</p>
         <p id="btnVenda"onclick="minhasCoisas.venda()">VENDA</p>
     </div>
+    <div >
+
+        <div id="Flex">
+
+            <h1 id="tituloSaldo">SALDO</h1>
+            <h1 id="tituloSaldo">Meus Jogos</h1>
+        </div>
+        <div id="saldo-e-jogos">
+
+            <div id="meuSaldo"></div>
+            <ul id="meusJogos"></ul>
+        </div>
+
+    </div>
+
+    
 
 
 <script src="script.js"></script>

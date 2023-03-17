@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=resgate
+comment1.params=nome\ idade\ vacinado\ raca\ Canil
+comment1.target=void\ resgataCachorro(java.lang.String,\ int,\ boolean,\ java.lang.String,\ canil)
+comment2.params=Canil\ Cachorro
+comment2.target=void\ levaProCanil(canil,\ cachorro)
+numComments=3

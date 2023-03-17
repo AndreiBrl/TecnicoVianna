@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=cachorro
+comment1.params=nome\ idade\ vacinado\ raca
+comment1.target=cachorro(java.lang.String,\ int,\ boolean,\ java.lang.String)
+numComments=2

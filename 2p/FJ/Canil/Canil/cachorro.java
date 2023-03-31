@@ -7,6 +7,6 @@ class cachorro{
     
     
     public cachorro(String nome, int idade, boolean vacinado, String raca ){
-        
+        this.nome=nome;
     }
 }

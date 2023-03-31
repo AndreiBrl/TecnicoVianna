@@ -3,16 +3,16 @@ import java.util.ArrayList;
 
 class canil{
     
-    private static ArrayList <cachorro> cachorrosNoCanil = new ArrayList <cachorro>();
+    private ArrayList <cachorro> cachorrosNoCanil = new ArrayList <cachorro>();
     
     
     
     
-    public static  void getCachorrosCanil(){
+    public   void getCachorrosCanil(){
         
     for (int i=0; i<cachorrosNoCanil.size();i++){
         
-        System.out.println(cachorrosNoCanil.get(i).idade);
+        System.out.println(cachorrosNoCanil.get(i).nome);
         
     }
     
@@ -20,5 +20,17 @@ class canil{
     
     public void aceitaCachorro(cachorro Cachorro){
         this.cachorrosNoCanil.add(Cachorro);
+    }
+    public void retiraCachorro(int j){
+    
+    this.cachorrosNoCanil.remove(j);
+for (int i=0; i<cachorrosNoCanil.size();i++){
+        
+        System.out.println(cachorrosNoCanil.get(i).nome);
+        
+    }    
+    }
+    public cachorro retornaCachorro(int i){
+        return cachorrosNoCanil.get(i);
     }
 }

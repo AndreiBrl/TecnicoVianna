@@ -2,4 +2,10 @@
 comment0.target=main
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment2.params=professor
+comment2.target=void\ candidatosVotacao(Professor)
+comment3.params=professor
+comment3.target=void\ votacao(Professor)
+comment4.params=professor
+comment4.target=void\ resultado(Professor)
+numComments=5

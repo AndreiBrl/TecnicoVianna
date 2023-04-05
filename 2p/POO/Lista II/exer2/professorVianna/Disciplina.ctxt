@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=nome\ ead
+comment1.target=Disciplina(java.lang.String,\ boolean)
+numComments=2

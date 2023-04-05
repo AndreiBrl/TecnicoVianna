@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Faculdade
+comment1.params=nome\ graduado\ especializacao\ mestre\ doutor
+comment1.target=void\ cadastraProfessor(java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean)
+comment2.params=nome\ ead
+comment2.target=void\ cadastraDisciplina(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=int\ calcSalario()
+comment4.params=
+comment4.target=java.util.ArrayList\ getListaProf()
+numComments=5

@@ -1,0 +1,134 @@
+Questão 1) 
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+       int num = Convert.ToInt32(Console.ReadLine());
+
+       funtion(num);
+
+
+    }
+
+    public static void funtion(int num){
+
+        if(num>0){
+
+            funtion(num-1);
+            if(num%2==0 && num%3==0){
+
+            Console.WriteLine(num);
+
+            }
+        }
+    }
+}
+
+Questão 2) 
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int[] vetNum = new int[] { 2, 3, 6, 9, -8 };
+        int cont = 0;
+        Console.WriteLine(function(vetNum, cont));
+    }
+
+    public static int function(int[] vetNum, int cont)
+    {
+
+
+        if (cont < vetNum.Length - 1)
+        {
+            vetNum[cont] *= -1;
+            if (vetNum[cont] < 0)
+            {
+                return 1 + function(vetNum, cont + 1);
+
+            }
+            else
+            {
+                return function(vetNum, cont + 1);
+            }
+
+        }
+
+        return 0;
+    }
+
+}
+
+Questão 3) 
+
+
+
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int meses = 1;
+        aposentadoria(30000, 1500, meses);
+    }
+    public static void aposentadoria(double montanteMensal, double retirada, int meses)
+    {
+        if (montanteMensal > retirada)
+        {
+
+
+            montanteMensal -= retirada;
+            montanteMensal += (montanteMensal * 0.0055);
+            Console.WriteLine("Montante mês {0}: {1:N2}",meses,montanteMensal);
+            aposentadoria(montanteMensal, retirada, meses + 1);
+
+        }
+        else
+            {
+
+                Console.WriteLine("A quantidade de meses de retirada é " + (meses-2));
+            }
+
+
+    }
+}
+
+Questão 4)
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int[] vetNum = new int[] { 2, 5, 6, 4, 1, 3 };
+
+
+        Console.Write(" Ocorreram " + function(vetNum) + " trocas");
+
+    }
+    public static int function(int[] vetNum)
+    {
+        int aux, troca = 0;
+
+        for (int i = 0; i < vetNum.Length; i++)
+        {
+            for (int j = 0; j < vetNum.Length - 1; j++)
+            {
+                if (vetNum[j] > vetNum[j + 1])
+                {
+                    aux = vetNum[j];
+                    vetNum[j] = vetNum[j + 1];
+                    vetNum[j + 1] = aux;
+                    troca++;
+                }
+
+            }
+
+        }
+
+        return troca;
+    }
+
+}
+
+

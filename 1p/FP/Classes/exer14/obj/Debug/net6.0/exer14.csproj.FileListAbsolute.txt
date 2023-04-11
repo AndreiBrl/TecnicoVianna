@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\bin\Debug\net6.0\exer14.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\bin\Debug\net6.0\exer14.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\bin\Debug\net6.0\exer14.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\bin\Debug\net6.0\exer14.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\bin\Debug\net6.0\exer14.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\refint\exer14.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\exer14.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\exer14\obj\Debug\net6.0\ref\exer14.dll

@@ -1,0 +1,73 @@
+/* 
+
+O aluno deverá utilizar as técnicas aprendidas para replicar o layout modelo (arquivo modelo.jpg) 
+de acordo com as cores, tipografias e espaçamentos apresentados.
+
+As fontes utilizadas são Poppinss, Verdana e Arial
+*/
+/* FONTE */
+
+@font-face {
+    font-family: 'Poppins';
+    src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+/* fim fonte */
+h1{
+    font-family: 'Poppins',Verdana,Arial;
+}
+/* SIDE BAR */
+.w3-text-red{
+    color: rgb(230, 29, 29);
+}
+.w3-sidebar{
+    background-color: rgb(230, 29, 29);
+}
+.w3-padding-64{
+    font-family: 'Poppins',Verdana,Arial;
+    color: white;
+}
+a{
+    font-family: 'Poppins',Verdana,Arial;
+    color: white;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+/*  FIM SIDE BAR*/
+p{
+    font-family: 'Poppins',Verdana,Arial;
+}
+.w3-padding-16{
+
+    font-family: 'Poppins',Verdana,Arial;
+}
+.w3-xlarge {
+    font-family: 'Poppins',Arial;
+    background-color: rgb(230, 29, 29);
+    color: white;
+    
+}
+
+.w3-half li {
+    text-align: center;
+}
+.w3-hover-black{
+    background-color: rgb(230, 29, 29);
+    color: white;
+}
+.w3-round{
+    background-color: rgb(230, 29, 29);
+}
+label{
+    font-family: 'Poppins',Verdana,Arial;
+}
+button:last-child{
+    background-color: rgb(230, 29, 29);
+    color: white;
+    font-family: 'Poppins',Verdana,Arial;
+}
+.w3-light-grey{
+    background-color: rgb(230, 228, 228);
+    font-family: 'Poppins',Verdana,Arial;
+}

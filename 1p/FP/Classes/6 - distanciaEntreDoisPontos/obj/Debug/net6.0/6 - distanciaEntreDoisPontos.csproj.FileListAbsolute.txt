@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\bin\Debug\net6.0\6 - distanciaEntreDoisPontos.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\bin\Debug\net6.0\6 - distanciaEntreDoisPontos.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\bin\Debug\net6.0\6 - distanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\bin\Debug\net6.0\6 - distanciaEntreDoisPontos.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\bin\Debug\net6.0\6 - distanciaEntreDoisPontos.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\refint\6 - distanciaEntreDoisPontos.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\6 - distanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\6 - distanciaEntreDoisPontos\obj\Debug\net6.0\ref\6 - distanciaEntreDoisPontos.dll

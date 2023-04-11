@@ -8,5 +8,5 @@ class Endereco{
     
     public string Logradouro{get{return logradouro;}set{logradouro=value;}}
     
-    public int Numero{get{return numero;}set{numero=value;Endereco novoEndereco = new Endereco();}}
+    public int Numero{get{return numero;}set{numero=value;}}
 }

@@ -1,0 +1,88 @@
+/*
+
+O aluno deverá criar um novo arquivo css com uma nova proposta para cores e tipografias do site. 
+Após a criação deverá responder as seguintes perguntas:
+
+a) Avalie sua proposta com base na psicologia das cores, especifique e justifique cada uma das cores utilizadas na nova proposta do layout. 
+
+b) Avalie sua proposta com base no texto e tipografia, especifique e justifique a escolha da família tipográfica e das mudanças de formatação de texto. 
+
+*/
+
+/* 
+
+O aluno deverá utilizar as técnicas aprendidas para replicar o layout modelo (arquivo modelo.jpg) 
+de acordo com as cores, tipografias e espaçamentos apresentados.
+
+As fontes utilizadas são Poppinss, Verdana e Arial
+*/
+/* FONTE */
+
+@font-face {
+    font-family: 'Poppins';
+    src: url("../fonts/Roboto/Roboto-Light.ttf");
+}
+hr{
+    border: 5px solid #997018;
+}
+/* fim fonte */
+h1{
+    font-family: 'Poppins',Verdana,Arial;
+    color: #997018;
+}
+/* SIDE BAR */
+.w3-text-red{
+    color: #997018;
+}
+.w3-sidebar{
+    background-color: #ad6800;
+}
+.w3-padding-64{
+    font-family: 'Poppins',Verdana,Arial;
+    color: white;
+}
+a{
+    font-family: 'Poppins',Verdana,Arial;
+    color: white;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+/*  FIM SIDE BAR*/
+p{
+    font-family: 'Poppins',Verdana,Arial;
+}
+.w3-padding-16{
+
+    font-family: 'Poppins',Verdana,Arial;
+}
+.w3-xlarge {
+    font-family: 'Poppins',Arial;
+    background-color: #1d63e6;
+    color: white;
+    
+}
+
+.w3-half li {
+    text-align: center;
+}
+.w3-hover-black{
+    background-color: rgb(230, 29, 29);
+    color: white;
+}
+.w3-round{
+    background-color: rgb(230, 29, 29);
+}
+label{
+    font-family: 'Poppins',Verdana,Arial;
+}
+button:last-child{
+    background-color: rgb(230, 29, 29);
+    color: white;
+    font-family: 'Poppins',Verdana,Arial;
+}
+.w3-light-grey{
+    background-color: rgb(230, 228, 228);
+    font-family: 'Poppins',Verdana,Arial;
+}

@@ -1,0 +1,15 @@
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\bin\Debug\net6.0\8 ordem crescente.exe
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\bin\Debug\net6.0\8 ordem crescente.deps.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\bin\Debug\net6.0\8 ordem crescente.runtimeconfig.json
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\bin\Debug\net6.0\8 ordem crescente.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\bin\Debug\net6.0\8 ordem crescente.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.csproj.AssemblyReference.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.AssemblyInfoInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.AssemblyInfo.cs
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.csproj.CoreCompileInputs.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\refint\8 ordem crescente.dll
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.pdb
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\8 ordem crescente.genruntimeconfig.cache
+C:\Users\barbu\OneDrive\Pc Backup\TecnicoVianna\1p\FP\Classes\8 ordem crescente\obj\Debug\net6.0\ref\8 ordem crescente.dll

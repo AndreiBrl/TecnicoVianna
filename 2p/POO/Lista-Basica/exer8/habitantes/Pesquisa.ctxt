@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pesquisa
+comment1.params=
+comment1.target=Pesquisa()
+comment2.params=sexo\ corOlhos\ corCabelo\ idade\ altura
+comment2.target=void\ cadastraPessoa(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=java.lang.String\ calculaAltura()
+comment4.params=
+comment4.target=java.lang.String\ mediaAlturaMulheres()
+comment5.params=
+comment5.target=java.lang.String\ numeroHomens()
+comment6.params=
+comment6.target=java.lang.String\ porcentagemHomensMulheres()
+comment7.params=
+comment7.target=java.lang.String\ porcentagemFemininoPorIdade()
+numComments=8

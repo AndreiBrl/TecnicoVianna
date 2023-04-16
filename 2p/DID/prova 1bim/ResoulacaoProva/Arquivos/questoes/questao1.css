@@ -1,0 +1,101 @@
+/*
+Questão 1-
+O aluno deverá utilizar as técnicas aprendidas para replicar o layout modelo (arquivo modelo.jpg) de
+acordo com as cores, tipografias e espaçamentos apresentados.
+
+OBS: As cores devem ser as mais próximas possíveis das apresentadas no modelo, não necessariamente exatas.
+*/
+
+@font-face {
+    font-family: Aby;
+    src: url(../fonts/Abyssinica_SIL/AbyssinicaSIL-Regular.ttf);
+}
+@font-face {
+    font-family: paragrafos;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+
+body{
+    background-color: rgb(252, 238, 235);
+}
+.menu{
+    font-family: paragrafos;
+    text-align: center;
+}
+/* Cor menu */
+nav{
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #616161;
+   
+}
+a:hover{
+    text-decoration: underline;
+    color:red;
+}
+/* fim cor menu */
+header{
+    padding: 0;
+    margin: 0;
+}
+/* cor h1 titulo */
+header h1{
+    padding-top: 15px;
+    padding-bottom: 18px;
+    text-align: center;
+    font-family: Aby,Arial,sans-serif;
+    color: #7c7c7c;
+    background-color: #b1b1b1;
+    
+}
+/* fim titulo h1 */
+main{
+    padding-top: 0;
+    margin-top: 0;
+}
+/* titulos main */
+main h2{
+    margin-bottom: 0;
+    color: #7c7c7c;
+    font-family: Aby,Arial,sans-serif;
+    
+}
+/* fim titulos main */
+
+/* paragrafos  */
+
+
+
+main li ,main p{
+    font-size: 15px;
+    text-align: justify;
+    font-family: paragrafos,Arial,sans-serif;
+    color: #5e5e5e;
+    padding-top: 0;
+    margin-top: 0;
+    
+}
+/* fim paragrafos */
+
+/* rodapé */
+
+
+footer p{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-size: 10px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-family: paragrafos,Arial,sans-serif;
+    color: #5e5e5e;
+    text-align: center;
+    background-color: #b1b1b1;
+    word-spacing: 15px;
+    
+    
+}
+/* fim rodapé */

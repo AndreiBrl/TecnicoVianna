@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment1.params=lado1\ lado2\ base\ altura
+comment1.target=Triangulo(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getLado1()
+comment3.params=
+comment3.target=double\ getLado2()
+comment4.params=
+comment4.target=double\ getBase()
+comment5.params=
+comment5.target=double\ getAltura()
+comment6.params=triangulo
+comment6.target=java.lang.String\ calculaPerimetro(Triangulo)
+comment7.params=triangulo
+comment7.target=java.lang.String\ calculaArea(Triangulo)
+comment8.params=triangulo
+comment8.target=java.lang.String\ verificaTipo(Triangulo)
+numComments=9

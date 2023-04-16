@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Concessionaria
+comment1.params=automatico\ vidroAutomatico\ alarme\ tetoSolar\ kitMultimidia\ potencia\ custo\ modelo\ ehImportado
+comment1.target=void\ atendeCliente(boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ double,\ double,\ java.lang.String,\ boolean)
+comment2.params=carro\ modelo
+comment2.target=java.lang.String\ calculaModelo(Carro,\ java.lang.String)
+comment3.params=carro\ ehImportado
+comment3.target=java.lang.String\ carroImportado(Carro,\ boolean)
+comment4.params=carro\ automatico\ vidroAutomatico\ alarme\ tetoSolar\ kitMultimidia
+comment4.target=java.lang.String\ adicionaAcess(Carro,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment5.params=carro
+comment5.target=java.lang.String\ taxaIPI(Carro)
+numComments=6

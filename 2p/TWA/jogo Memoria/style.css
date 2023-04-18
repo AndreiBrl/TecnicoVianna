@@ -1,0 +1,36 @@
+.card {
+
+    width: 50px;
+  
+    height: 50px;
+  
+    background-color: gray;
+  
+    margin: 10px;
+  
+    display: inline-block;
+  
+    cursor: pointer;
+  
+   transition: all 1s linear;
+  
+  }
+  
+  
+  
+  
+  .flipAzul{
+  
+  background-color: blue;
+  
+  }
+  .flipVerde{
+  
+    background-color: green;
+    
+    }
+    .flipLaranja{
+  
+        background-color: orange;
+        
+        }

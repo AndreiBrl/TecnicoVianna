@@ -1,0 +1,14 @@
+{   "Feeds":[
+    {"id":1, "usu":"Ana", "tempo":" 3 anos","msg":"sadsadasdas","ft Perfil": "sss" ,"likes":3},
+    {"id":2, "usu":"Lucas", "tempo":" 5 anos","msg":"sadsadasdas","ft Perfil": "sss" ,"likes":3},
+    {"id":3, "usu":"Marcas", "tempo":" 3 anos","msg":"sadsadasdas","ft Perfil": "sss" ,"likes":3}
+],
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+
+  }

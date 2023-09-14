@@ -1,0 +1,46 @@
+get http://localhost:45678/Loja/3
+
+
+
+### post games
+
+POST http://localhost:45678/Loja HTTP/1.1
+Content-Type: application/json
+
+{
+                    "id":4,
+                    "Nome":"Bolo",
+                    "Precounitario":0.50 ,
+                    
+                    "Quantidade": 2,
+    
+                    "Categoria": "Assado",
+                    
+                    "Fabricante":{
+                                "nome":"Maria",
+                                "Endereço":"Rua pedra 231",
+                                "Tel":32323232
+                    }
+    
+}
+### PUT
+
+PUT http://localhost:45678/Loja/3 HTTP/1.1
+Content-Type: application/json
+
+{
+                    
+                    "Nome":"Soja",
+                    "Precounitario":0.50 ,
+                    
+                    "Quantidade": 12,
+    
+                    "Categoria": "Grão",
+                    
+                    "Fabricante":{
+                                "nome":"Maria",
+                                "Endereço":"Rua pedra 231",
+                                "Tel":32323232
+                    }
+    
+}

@@ -8,6 +8,8 @@ class BdAulaApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+
 	}
 
 }

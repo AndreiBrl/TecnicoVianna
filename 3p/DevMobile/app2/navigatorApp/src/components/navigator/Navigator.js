@@ -12,8 +12,8 @@ const Navigator = () =>{
         <NavigationContainer>
             <Stack.Navigator inicialRouteName ="telaInicial">
 
-                <Stack.Screen name="telaInicial" 
-                component={TelaInicial}
+                <Stack.Screen name="Home" 
+                component={TelaInicial} options={{headerShown:false}}
                 
                 />
                 <Stack.Screen name="telaLogin"

@@ -1,10 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import Navigator from './src/components/navigator/Navigator'
+import { AuthProvider } from './src/components/auth/AuthProvider'
+
 
 export default function App() {
   return (
-  <Navigator/>
+
+    <AuthProvider>
+
+      <Navigator />
+    </AuthProvider>
   );
 }
 

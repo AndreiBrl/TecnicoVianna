@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\auth",
+    "\\src\\components\\navigator",
+    "\\src\\components\\TopBoard",
+    "\\src\\view",
+    "\\src\\view\\cadastro",
+    "\\src\\view\\home"
+  ],
+  "SelectedNode": "\\src\\components\\TopBoard\\TopBoard.js",
+  "PreviewInSolutionExplorer": false
+}

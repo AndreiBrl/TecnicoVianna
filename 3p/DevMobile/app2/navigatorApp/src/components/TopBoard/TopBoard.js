@@ -1,10 +1,11 @@
 import { View, StyleSheet, Image, Dimensions, Text, ImageBackground } from "react-native"
-import cyber from "./img/cyber.jpg"
+
 import { useFonts } from 'expo-font';
 const TopBoard = () => {
 
     const [fontsLoaded] = useFonts({
-        'cyberFont': require('../../../assets/fontes/cyberFont.ttf')
+        'cyberFont': require('../../../assets/fontes/cyberFont.ttf'),
+        'doctor': require('../../../assets/fontes/doctor.otf')
     })
 
     const style = StyleSheet.create({
@@ -31,7 +32,7 @@ const TopBoard = () => {
             </Text>
             <View style={{ flexDirection: 'row',width:"100%", justifyContent:'center' }}>
 
-                <Text style={{ color: "#fcee0a", fontSize: 50, fontFamily: 'cyberFont', opacity: 1 }}>
+                <Text style={{ color: "#B94432", fontSize: 50, fontFamily: 'cyberFont', opacity: 1 }}>
                     LORG  
                 </Text>               
                  <Text style={{ color: "#565656", fontSize: 25, fontFamily: 'cyberFont', opacity: 1,paddingTop:25,marginLeft:5 }}>

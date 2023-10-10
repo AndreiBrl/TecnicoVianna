@@ -3,7 +3,9 @@ package br.edu.aula.bd.bdAula.model;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import org.springframework.stereotype.Service;
 
+@Service
 public class Aluno {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -19,6 +21,9 @@ public class Aluno {
         this.id=id;
         this.nota=nota;
     }
-    
+    public boolean isFinal(){
+
+        return true;
+    }
 
 }

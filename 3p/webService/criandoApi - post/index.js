@@ -98,12 +98,12 @@ app.post("/Loja", (req, res) => {
     var { id, Nome, Precounitario, Quantidade, Categoria, Fabricante } = req.body;
 
     BD.Loja.push({
-        id: id,
-        Nome: Nome,
-        Precounitario: Precounitario,
-        Quantidade: Quantidade,
-        Categoria: Categoria,
-        Fabricante, Fabricante
+        id,
+        Nome,
+        Precounitario,
+        Quantidade,
+        Categoria,
+        Fabricante
     })
     res.sendStatus(200);
 });
@@ -140,4 +140,20 @@ app.put('/Loja/:id', (req, res) => {
     }
     res.sendStatus(200)
 
+});
+
+app.delete("/Loja/:id",(req, res) => {
+    if(isNaN(req.params.id)){
+        res.sendStatus(400);
+    }else{
+        var id = parseInt(req.params.id);
+        var index = BD.Loja.findIndex(g => g.id == id);
+
+        if(index == -1){
+            res.sendStatus(404);
+        }else{
+            BD.Loja.splice(index,1);
+            res.sendStatus(200);
+        }
+    }
 });

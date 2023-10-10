@@ -1,4 +1,6 @@
-get http://localhost:45678/Loja/3
+get http://localhost:45678/Loja/
+
+
 
 
 
@@ -8,8 +10,8 @@ POST http://localhost:45678/Loja HTTP/1.1
 Content-Type: application/json
 
 {
-                    "id":4,
-                    "Nome":"Bolo",
+                    "id":2,
+                    "Nome":"Alface",
                     "Precounitario":0.50 ,
                     
                     "Quantidade": 2,
@@ -25,12 +27,12 @@ Content-Type: application/json
 }
 ### PUT
 
-PUT http://localhost:45678/Loja/3 HTTP/1.1
+PUT http://localhost:45678/Loja/2 HTTP/1.1
 Content-Type: application/json
 
 {
                     
-                    "Nome":"Soja",
+                    "Nome":"Arroz",
                     "Precounitario":0.50 ,
                     
                     "Quantidade": 12,
@@ -44,3 +46,8 @@ Content-Type: application/json
                     }
     
 }
+### delete
+
+DELETE http://localhost:45678/Loja/2 HTTP/1.1
+
+

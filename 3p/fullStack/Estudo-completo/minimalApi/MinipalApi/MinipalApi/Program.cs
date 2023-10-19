@@ -3,7 +3,16 @@ using MinipalApi.Context;
 using MinipalApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+// Habilita o cors aceitar requisição da porta 3000
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder => builder
+        .WithOrigins("http://localhost:3000") // Substitua pela origem do seu aplicativo frontend
+        .AllowAnyHeader()
+        .AllowAnyMethod()
+    );
+});
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -18,9 +27,14 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseCors();
 }
 
 app.UseHttpsRedirection();
+
+
+
+
 
 
 app.MapGet("/produtos", (AppDbContext db) =>

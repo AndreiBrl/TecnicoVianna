@@ -4,47 +4,50 @@ import { useContexto } from "../Compartilhado";
 
 
 const Informacoes = () => {
-  const { carro, itensAdicionais, potenciaEscolhida, setItensAdicionais } = useContexto();
+  const { carro, itensAdicionais, potenciaEscolhida } = useContexto();
   let preco = 0;
   const calculaPreco = () => {
-    if (carro.value == "corolla") {
-      preco = 50000 + 50000 * 0.3
-    }
-    if (carro.value == "gol") {
-      preco = 30000 + 30000 * 0.2
-    }
+    
 
-    if (carro.value == "toro") {
-      preco = 150000 + 150000 * 0.3
-    }
-    if (potenciaEscolhida == "1.0") {
-      preco -= preco * 0.1
-    }
-
-
-    itensAdicionais.forEach(element => {
-      if (element.value == "Ar") {
-        preco += 3000
-
+      if (carro.value == "corolla") {
+        preco = 50000 + 50000 * 0.3
       }
-      if (element.value == "cambioAuto") {
-        preco += 5000
-
+      if (carro.value == "gol") {
+        preco = 30000 + 30000 * 0.2
       }
-      if (element.value == "alarme") {
-        preco += 800
 
+      if (carro.value == "toro") {
+        preco = 150000 + 150000 * 0.3
       }
-      if (element.value == "tetoSolar") {
-        preco += 4000
-
+      if (potenciaEscolhida == "1.0") {
+        preco -= preco * 0.1
       }
-      if (element.value == "kitMulti") {
-        preco += 1800
 
-      }
-    });
 
+      itensAdicionais.forEach(element => {
+        if (element.value == "Ar") {
+          preco += 3000
+
+        }
+        if (element.value == "cambioAuto") {
+          preco += 5000
+
+        }
+        if (element.value == "alarme") {
+          preco += 800
+
+        }
+        if (element.value == "tetoSolar") {
+          preco += 4000
+
+        }
+        if (element.value == "kitMulti") {
+          preco += 1800
+
+        }
+      });
+
+    
   }
   calculaPreco();
 

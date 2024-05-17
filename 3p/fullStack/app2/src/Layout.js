@@ -6,8 +6,8 @@ const Layout = () => {
         <React.Fragment>
             <nav>
                 <ul>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/pagina1">Página 1</Link></li>
+                    <li><Link to="/pagina1">Home</Link></li>
+
                     <li><Link to="/pagina2">Página 2</Link></li>
                 </ul>
             </nav>

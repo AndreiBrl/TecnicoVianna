@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'HH';
+    src: url('HelpMe.ttf') format('truetype');
+    /* Formato TTF */
+}
+
+@font-face {
+    font-family: 'EE';
+    src: url('ee.otf') format('opentype');
+    /* Formato OTF */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    background-image: url("porta.png");
+    height: 100vh;
+    background-size: 60vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.container {
+
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.navegacao {
+    padding-top: 5vw;
+    display: flex;
+    gap: 1vw;
+    flex-direction: column;
+    text-align: center;
+    transition: all 0.3s linear;
+}
+
+.navegacao a {
+
+    color: inherit;
+}
+.navegacao h1 {
+    font-size: 1.5vw;
+    letter-spacing: 10px;
+    color: gray;
+    font-family: HH;
+    transition: all 0.3s linear;
+    cursor: pointer;
+    animation: opacidade 0.7s linear ;
+}
+
+.navegacao h1:hover {
+    color: rgb(162, 0, 0);
+
+}
+/* login
+ */
+
+ .login{
+    margin-top: 3vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+    animation: opacidade 0.7s linear ;
+ }
+ @keyframes opacidade {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 100%;
+    }
+  }
+ .login h1{
+    margin-bottom: 0.5vw;
+    font-size: 1vw;
+    letter-spacing: 10px;
+    color: rgb(136, 0, 0);
+    font-family: HH;
+    transition: all 0.3s linear;
+    
+}
+
+.login input{
+    font-size: 1vw;
+    height: 1.5vw;
+    opacity: 50%;
+    background-color:white;
+    border-radius: 5px;
+    border: 0;
+}
+.btnEntrar{
+    
+    background-color: transparent !important;
+    height: 2.3vw !important;
+    font-size: 2vw !important;
+    letter-spacing: 5px;
+    font-family: EE;
+    transition: all 0.3s linear;
+    color: rgb(136, 0, 0);
+    opacity: 100% !important;
+    
+}
+.btnEntrar:hover{
+    /* color: black; */
+    background-color: rgb(184, 184, 184) !important;
+}

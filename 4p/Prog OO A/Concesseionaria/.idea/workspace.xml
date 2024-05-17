@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70510997-a102-428e-9bf3-77efd882d602" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exer1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exer1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exer1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exer1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exer1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exer1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto2/Projeto02/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aprendendoAjax/src/main/java/ServLet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiroProjetoJava/.idea/primeiroProjetoJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Compartilhado.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Compartilhado.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Exer1/Informacoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Exer1/Informacoes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Exer3/Exer3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Exer3/Exer3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/Pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/navigation/Navigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/DevMobile/Lista de Exer/Exer1/navigation/Navigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/DevMobile/app2/navigatorApp/src/view/login/LoginView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/DevMobile/app2/navigatorApp/src/view/login/LoginView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/fullStack/app2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/fullStack/app2/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/fullStack/app2/src/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/fullStack/app2/src/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3p/fullStack/app2/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3p/fullStack/app2/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2dxqZMSqtpwfmhaDbfFAxdvIwAg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70510997-a102-428e-9bf3-77efd882d602" name="Changes" comment="" />
+      <created>1710960133961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710960133961</updated>
+      <workItem from="1710960135365" duration="33000" />
+    </task>
+    <servers />
+  </component>
+</project>

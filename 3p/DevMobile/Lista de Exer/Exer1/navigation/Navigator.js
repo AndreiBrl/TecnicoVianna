@@ -5,6 +5,7 @@ import Exer1 from '../Pages/Exer1/Exer1';
 import Exer2 from '../Pages/Exer2/Exer2';
 import Exer3 from "../Pages/Exer3/Exer3";
 import Informacoes from '../Pages/Exer1/Informacoes';
+import InformacoesExer3 from '../Pages/Exer3/InformacoesExer3';
 import Home from "../Pages/Home";
 
 const Navigator = () => {
@@ -12,12 +13,13 @@ const Navigator = () => {
     const Stack = createStackNavigator();
     return (
         <NavigationContainer>
-            <Stack.Navigator inicialRouteName="Exer3">
+            <Stack.Navigator inicialRouteName="Home">
+                <Stack.Screen name="Home" component={Home} />
                 <Stack.Screen name="Exer3" component={Exer3} />
                 <Stack.Screen name="Exer2" component={Exer2} />
-                <Stack.Screen name="Home" component={Home} />
                 <Stack.Screen name="Exer1" component={Exer1} />
                 <Stack.Screen name="Informacoes" component={Informacoes} />
+                <Stack.Screen name="InformacoesExer3" component={InformacoesExer3} />
             </Stack.Navigator>
         </NavigationContainer>
     );

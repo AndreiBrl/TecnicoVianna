@@ -37,6 +37,20 @@ const Home = ({ navigation }) => {
                         Exer2</Text>
                 </View>
             </TouchableOpacity>
+            <TouchableOpacity
+                style={{ paddingTop: 10 }}
+                onPress={() => {
+                    navigation.navigate('Exer3')
+
+
+                }}>
+                <View>
+
+                    <Text style={{ fontSize: 30, padding: 10, backgroundColor: "lightgray" }}>
+
+                        Exer3</Text>
+                </View>
+            </TouchableOpacity>
         </View>
     )
 }

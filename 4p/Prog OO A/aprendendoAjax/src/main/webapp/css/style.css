@@ -1,0 +1,40 @@
+*{
+    padding:0;
+    margin:0;
+    border-box:border-sizing:
+
+
+}
+body{
+background-color: #854;
+}
+
+.container{
+    margin: 0 auto;
+    width: 50vw;
+    margin-top: 100px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: red 1px solid;
+    height: 60vh;
+    box-shadow: 4px 4px 4px RGB(0,0,0,0.5);
+    padding:1vw;
+}
+.form{
+
+}
+.row{
+padding:1vw;
+gap:1vw;
+display:flex;
+flex-direction:column;
+height:8vw;
+}
+.row input{
+height:1vw;
+width:15vw;
+}
+
+.row input:focus{
+background-color:#b5d7fd;
+}

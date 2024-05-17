@@ -21,7 +21,6 @@ const LoginView = ({ navigation }) => {
 
         }
 
-
     }
 
     return (

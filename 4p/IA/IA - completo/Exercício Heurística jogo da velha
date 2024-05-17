@@ -1,0 +1,21 @@
+Uma forma de se criar uma Heurística para o jogo da velha seria considerar a possibilidade de vítorias.
+
+Em um tabuleiro com nenhum círculo ou somente um círculo, se teria a possibilidade de 8 vítorias, portanto a heurística seria 8
+
+Mas ao incluir um "X" no jogo, faria com que o número de possibilidades caísse.
+
+Por exemplo:
+
+---|---|---
+---| O |---
+---|---|---
+Neste tabuleiro o valor da heurística seria 8 por serem o número possíveis de vitória para o "O"
+
+---|---|---
+---| O |---
+---|---| X
+
+Já nesse a heurística caíria para 5. 
+Como o X bloqueia 3 formas de vitória diferentes.
+
+Porém, se houvesse uma vitória completa do "O" seria um valor 1, já que é a única forma de ganhar naquele tabuleiro.
